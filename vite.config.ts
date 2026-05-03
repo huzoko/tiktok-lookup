@@ -11,6 +11,7 @@ export default defineConfig(({mode}) => {
         '@': path.resolve(__dirname, '.'),
       },
     },
+     base: '/tiktok-lookup/',
     server: {
       hmr: true,
     },
