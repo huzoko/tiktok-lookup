@@ -32,7 +32,7 @@ export default function App() {
         <div id="header-icon">
           <Globe2 size={32} color="#fff" />
         </div>
-        <h1 id="app-title">RegionCheck</h1>
+        <h1 id="app-title">Tiktok lookup tool</h1>
         <p className="subtitle" id="app-subtitle">
           Discover where TikTok accounts are rooted.
         </p>
@@ -72,7 +72,7 @@ export default function App() {
 
       <footer style={{ marginTop: '40px', textAlign: 'center' }} id="app-footer">
         <p style={{ fontSize: '11px', color: '#333', fontWeight: 600, textTransform: 'uppercase', letterSpacing: '0.1em' }} id="footer-text">
-          Encrypted Region Lookup Service • v1.0.4
+          Made by @huzoko 
         </p>
       </footer>
     </div>
